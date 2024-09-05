@@ -4,7 +4,7 @@
     "ids": [
       {
         "symbol": "BTLJ-USD",
-        "id": "0xE40F3EF726A04AD63510BAF90238F6BCACF4365DB2A38E02A6E8623C2BEDC97D",
+        "id": "0xe40f3ef726a04ad63510baf90238f6bcacf4365db2a38e02a6e8623c2bedc97d",
         "type": "polymarket",
         "origin": "0x3157ea263270be44bd68a3d6bde1f6f639be2746974f65de24e00ea6378d7838"
       },
@@ -174,7 +174,7 @@
     "ids": [
       {
         "symbol": "BTLJ-USD",
-        "id": "0xE40F3EF726A04AD63510BAF90238F6BCACF4365DB2A38E02A6E8623C2BEDC97D",
+        "id": "0xe40f3ef726a04ad63510baf90238f6bcacf4365db2a38e02a6e8623c2bedc97d",
         "type": "polymarket",
         "origin": "0x3157ea263270be44bd68a3d6bde1f6f639be2746974f65de24e00ea6378d7838"
       },
