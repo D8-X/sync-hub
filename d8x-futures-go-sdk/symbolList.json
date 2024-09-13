@@ -14,7 +14,6 @@
   "stTH": "STETH",
   "stER": "STEUR",
   "stUS": "STUSD",
-  "agER": "AGEUR",
   "LUSD": "LUSD",
   "wETH": "WEETH",
   "OKB": "WOKB",
@@ -26,5 +25,9 @@
   "ZK": "ZK",
   "PNDL": "PENDLE",
   "TR24": "TRUMP24",
-  "BTLJ": "BTLJ"
+  "BTLJ": "BTLJ",
+  "WALZ": "WALZNOM",
+  "HARR": "HARRIS24P",
+  "SB49": "SUPBWL49",
+  "IO2": "INSOUT2"
 }
