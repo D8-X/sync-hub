@@ -1,7 +1,7 @@
 [
   {
     "network": "PythEVMStable",
-    "candleIrrelevant": ["STUSD-USD", "AGEUR-USD", "WEETH-ETH"],
+    "candleIrrelevant": ["STUSD-USD", "WEETH-ETH"],
     "threshOffChainFeedOutdatedSec": 60,
     "threshOnChainFeedOutdatedSec": 86400,
     "ids": [
@@ -84,12 +84,6 @@
         "id": "0x846ae1bdb6300b817cee5fdee2a6da192775030db5615b94a465f53bd40850b5",
         "type": "pyth",
         "origin": "Crypto.STETH/USD"
-      },
-      {
-        "symbol": "AGEUR-USD",
-        "id": "0x3b670a7aa22cf0dc3b76b42dc2e26a85bac35eafc5a5ae2defd6d98201b1b997",
-        "type": "pyth",
-        "origin": "Crypto.AGEUR/USD"
       },
       {
         "symbol": "WOKB-USD",
