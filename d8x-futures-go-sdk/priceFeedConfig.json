@@ -162,7 +162,7 @@
         "origin": "Crypto.PENDLE/USD"
       },
       {
-        "symbol": "STUSD-USDC",
+        "symbol": "STUSD-USD",
         "id": "angle1",
         "type": "onchain",
         "origin": ""
