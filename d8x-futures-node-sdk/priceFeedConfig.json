@@ -187,6 +187,12 @@
         "id": "0xf0d57deca57b3da2fe63a493f4c25925fdfd8edf834b20f93e1f84dbd1504d4a",
         "type": "pyth",
         "origin": "Crypto.SHIB/USD"
+      },
+      {
+        "symbol": "POL-USD",
+        "id": "0xffd11c5a1cfd42f80afb2df4d9f264c15f956d68153335374ec10722edd70472",
+        "type": "pyth",
+        "origin": "Crypto.POL/USD"
       }
     ],
     "endpoints": [
