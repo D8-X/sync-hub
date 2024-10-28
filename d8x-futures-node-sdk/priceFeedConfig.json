@@ -2,6 +2,12 @@
   {
     "network": "mainnet",
     "ids": [
+       {
+        "symbol": "DIRAC-HONEY",
+        "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
+        "type": "low-liq",
+        "origin": ""
+      },
       {
         "symbol": "WALZNOM-USD",
         "id": "0x6710f215fe01867219fc338d0a68290f84c471d002b14b6decd92c2260d94cce",
@@ -200,6 +206,11 @@
         "type": "pyth",
         "endpoints": ["https://hermes.pyth.network"],
         "writeEndpoints": ["https://hermes.pyth.network"]
+      },
+       {
+        "type": "low-liq",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
       },
       { "type": "onchain", "endpoints": [], "writeEndpoints": [] },
       {
