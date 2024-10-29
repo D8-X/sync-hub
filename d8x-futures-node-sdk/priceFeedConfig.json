@@ -3,6 +3,18 @@
     "network": "mainnet",
     "ids": [
       {
+        "symbol": "DIRAC-HONEY",
+        "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
+        "symbol": "BUDS-HONEY",
+        "id": "0xb859493d77dc52043bbeaa6aa090ebd24ae913a707b330a34e4f168b5d8dd58c",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
         "symbol": "WALZNOM-USD",
         "id": "0x6710f215fe01867219fc338d0a68290f84c471d002b14b6decd92c2260d94cce",
         "type": "polymarket",
@@ -201,6 +213,11 @@
         "endpoints": ["https://hermes.pyth.network"],
         "writeEndpoints": ["https://hermes.pyth.network"]
       },
+      {
+        "type": "low-liq",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
+      },
       { "type": "onchain", "endpoints": [], "writeEndpoints": [] },
       {
         "type": "polymarket",
@@ -212,6 +229,25 @@
   {
     "network": "odin",
     "ids": [
+      {
+        "symbol": "HONEY-USDC",
+        "origin": "Crypto.HONEY/USDC",
+        "comment": "DAI price for temporary feed honey-usdc",
+        "id": "0xb0948a5e5313200c632b51bb5ca32f6de0d36e9950a942d19751e833f70dabfd",
+        "type": "odin"
+       },
+       {
+        "symbol": "DIRAC-HONEY",
+        "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
+        "symbol": "BUDS-HONEY",
+        "id": "0xb859493d77dc52043bbeaa6aa090ebd24ae913a707b330a34e4f168b5d8dd58c",
+        "type": "low-liq",
+        "origin": ""
+      },
       {
         "symbol": "BTLJ-USD",
         "id": "0xe40f3ef726a04ad63510baf90238f6bcacf4365db2a38e02a6e8623c2bedc97d",
@@ -295,7 +331,12 @@
       {
         "type": "odin",
         "endpoints": ["https://hermes.pyth.network"],
-        "writeEndpoints": ["https://odin-poly.d8x.xyz"]
+        "writeEndpoints": ["https://odin.d8x.xyz/"]
+      },
+      {
+        "type": "low-liq",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
       },
       {
         "type": "polymarket",
