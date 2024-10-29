@@ -231,6 +231,12 @@
         "origin": ""
       },
       {
+        "symbol": "BUDS-HONEY",
+        "id": "0xb859493d77dc52043bbeaa6aa090ebd24ae913a707b330a34e4f168b5d8dd58c",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
         "symbol": "BTLJ-USD",
         "id": "0xe40f3ef726a04ad63510baf90238f6bcacf4365db2a38e02a6e8623c2bedc97d",
         "type": "polymarket",
