@@ -234,7 +234,7 @@
         "origin": "Crypto.HONEY/USDC",
         "comment": "DAI price for temporary feed honey-usdc",
         "id": "0xb0948a5e5313200c632b51bb5ca32f6de0d36e9950a942d19751e833f70dabfd",
-        "type": "pyth"
+        "type": "odin"
        },
        {
         "symbol": "DIRAC-HONEY",
@@ -331,7 +331,7 @@
       {
         "type": "odin",
         "endpoints": ["https://hermes.pyth.network"],
-        "writeEndpoints": ["https://odin-poly.d8x.xyz"]
+        "writeEndpoints": ["https://odin.d8x.xyz/"]
       },
       {
         "type": "low-liq",
