@@ -34,5 +34,7 @@
   "IO2": "INSOUT2",
   "TON": "TON",
   "SHIB": "SHIB",
-  "BNB": "BNB"
+  "BNB": "BNB",
+  "DIRC": "DIRAC",
+  "HONY": "HONEY"
 }
