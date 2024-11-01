@@ -232,6 +232,24 @@
         "origin": ""
       },
       {
+        "symbol": "IBGT-HONEY",
+        "id": "0x2cb8e3da2690aee73a495107a849e58989d73c1151719920b06bbdf1bb1a0150",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
+        "symbol": "BDEG-HONEY",
+        "id": "0x0becdebd3154dfe6c06b952800b379f091374a16a8ee09aba0e503092479bfca",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
+        "symbol": "BEARTIC-HONEY",
+        "id": "617bbf5a0cb37d312fe6b1021fa42ab1502746cfe9eae37b5ff9f3d9eb71ae36",
+        "type": "low-liq",
+        "origin": ""
+      },
+      {
         "symbol": "BTLJ-USD",
         "id": "0xe40f3ef726a04ad63510baf90238f6bcacf4365db2a38e02a6e8623c2bedc97d",
         "type": "polymarket",
