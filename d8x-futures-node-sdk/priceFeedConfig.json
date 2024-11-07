@@ -3,6 +3,12 @@
     "network": "mainnet",
     "ids": [
       {
+        "symbol": "TRMPUKR-USD",
+        "id": "0xbbad52c7a569d729424c917dd3181149d59b5f4fc3115d510b91197c4368c22a",
+        "type": "polymarket",
+        "origin": "0xa5ac4cdcfff44ddfb0d332d33575f766414465786fb7d4350782db40d5e9da11"
+      },
+      {
         "symbol": "WALZNOM-USD",
         "id": "0x6710f215fe01867219fc338d0a68290f84c471d002b14b6decd92c2260d94cce",
         "type": "polymarket",
