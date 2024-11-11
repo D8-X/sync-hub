@@ -50,6 +50,34 @@
         "storkSym": ""
       },
       {
+        "symbol": "MANU24-USD",
+        "id": "0x99949191c4996cfb75262a15ee1ecc16c1cd07b8f0561694db177636b58321d4",
+        "type": "polymarket",
+        "origin": "0x586e7ee86609bd6ea5b71bddff7ea7877100c03d22ece5a336baa98aadacdb1a",
+        "storkSym": ""
+      },
+      {
+        "symbol": "BTCNOV90-USD",
+        "id": "0x3c711064722ff96741641b5b54f055874bbfb478042888fd4121a145c852060b",
+        "type": "polymarket",
+        "origin": "0x952e8d6dcd67c7d28720491a798e96a2729a57598cb04b4de6f6c2e6f75fd12b",
+        "storkSym": ""
+      },
+      {
+        "symbol": "BTC24100-USD",
+        "id": "0x8f7dd95917a1bcf74cd5964c9a779c267d38d4c6a87e8c7a66fae7fe30ada9a6",
+        "type": "polymarket",
+        "origin": "0x9c66114d2dfe2139325cc7a408a5cd5d2e73b55d919e2141b3a0ed83fc15895d",
+        "storkSym": ""
+      },
+      {
+        "symbol": "MCLAREN24-USD",
+        "id": "0xa54c8b0fca58649775eece82cf6bf4aea245a431bdff4dfba40f01a17e4c1248",
+        "type": "polymarket",
+        "origin": "0x6154df852fac6dd9748b97883c03220bb267ad2be71fa215c8df1431995db74d",
+        "storkSym": ""
+      },
+      {
         "symbol": "WALZNOM-USD",
         "id": "0x6710f215fe01867219fc338d0a68290f84c471d002b14b6decd92c2260d94cce",
         "type": "polymarket",
