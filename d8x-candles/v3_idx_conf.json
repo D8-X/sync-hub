@@ -26,12 +26,12 @@
             "addr": "0x4302b57ba521cf2137e8af85990ab1ca2e241126"
         },
         {
-            "symbol": "HONEY-IBGT",
-            "addr": "0xd1c6bb205e323e29c5e46f4a9db0ea6193136909"
-        },
-        {
             "symbol": "HONEY-BDEG",
             "addr": "0x0E4E67fb43F3467077619410A34d21cdB52eB992"
+        },
+        {
+            "symbol": "HONEY-DIRAC",
+            "addr": "0xea2e981f185e6a4b53eb1b72792cf02e2ebcbdcb"
         }
     ]
 }]
