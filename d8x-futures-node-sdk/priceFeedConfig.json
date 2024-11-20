@@ -354,6 +354,17 @@
       },
       {
         "type": "low-liq",
+        "comment": "legacy",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
+      },
+      {
+        "type": "v2",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
+      },
+      {
+        "type": "v3",
         "endpoints": ["https://odin-lowliq.d8x.xyz/"],
         "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
       },
