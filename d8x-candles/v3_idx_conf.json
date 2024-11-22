@@ -2,11 +2,11 @@
     "chainId": 80084,
     "poolChainId": 80084,
     "indices" : [
-        {"symbol":"DIRAC-HONEY", "triang": ["/", "HONEY-DIRAC"]},
-        {"symbol":"BUDS-HONEY", "triang": ["/", "WBERA-BUDS", "/", "HONEY-WBERA"]},
-        {"symbol":"IBGT-HONEY", "triang": ["*", "IBGT-WBERA", "/", "HONEY-WBERA"]},
-        {"symbol":"BDEG-HONEY", "triang": ["/", "HONEY-BDEG"]},
-        {"symbol":"BEARTIC-HONEY", "triang": ["/", "HONEY-BEARTIC"]}
+        {"symbol":"DIRAC-HONEY", "contractSize": 1,  "triang": ["/", "HONEY-DIRAC"]},
+        {"symbol":"BUDS-HONEY", "contractSize": 1, "triang": ["/", "WBERA-BUDS", "/", "HONEY-WBERA"]},
+        {"symbol":"IBGT-HONEY", "contractSize": 1, "triang": ["*", "IBGT-WBERA", "/", "HONEY-WBERA"]},
+        {"symbol":"BDEG-HONEY", "contractSize": 1, "triang": ["/", "HONEY-BDEG"]},
+        {"symbol":"BEARTIC-HONEY", "contractSize": 1, "triang": ["/", "HONEY-BEARTIC"]}
     ],
     "pools" : [
         {
