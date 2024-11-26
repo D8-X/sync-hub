@@ -223,6 +223,12 @@
         "id": "0xffd11c5a1cfd42f80afb2df4d9f264c15f956d68153335374ec10722edd70472",
         "type": "pyth",
         "origin": "Crypto.POL/USD"
+      },
+      {
+        "symbol": "DEGEN-USDC",
+        "id": "0x04eea024bcf1b35d549295a85bf0348987c70b82d674dad6279e4f1218acf9bd",
+        "type": "v3",
+        "origin": ""
       }
     ],
     "endpoints": [
@@ -236,6 +242,11 @@
         "type": "polymarket",
         "endpoints": [],
         "writeEndpoints": ["https://odin-poly.d8x.xyz"]
+      },
+      {
+        "type": "v3",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
       }
     ]
   },
