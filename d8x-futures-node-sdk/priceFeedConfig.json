@@ -225,7 +225,7 @@
         "origin": "Crypto.POL/USD"
       },
       {
-        "symbol": "BRETT-USDC",
+        "symbol": "BRETT-USD",
         "id": "0x1b9107da5665c83e48ff6d36ede74317dff0d134b7980195a8bfe0976e41867a",
         "type": "v3",
         "origin": ""
