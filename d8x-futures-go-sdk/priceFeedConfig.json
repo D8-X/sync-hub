@@ -21,31 +21,31 @@
       {
         "symbol": "DIRAC-HONEY",
         "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
-        "type": "low-liq",
+        "type": "univ3",
         "origin": ""
       },
       {
         "symbol": "BUDS-HONEY",
         "id": "0xb859493d77dc52043bbeaa6aa090ebd24ae913a707b330a34e4f168b5d8dd58c",
-        "type": "low-liq",
+        "type": "univ3",
         "origin": ""
       },
         {
         "symbol": "IBGT-HONEY",
         "id": "0x2cb8e3da2690aee73a495107a849e58989d73c1151719920b06bbdf1bb1a0150",
-        "type": "low-liq",
+        "type": "univ3",
         "origin": ""
       },
       {
         "symbol": "BDEG-HONEY",
         "id": "0x0becdebd3154dfe6c06b952800b379f091374a16a8ee09aba0e503092479bfca",
-        "type": "low-liq",
+        "type": "univ3",
         "origin": ""
       },
       {
         "symbol": "BEARTIC-HONEY",
         "id": "0x617bbf5a0cb37d312fe6b1021fa42ab1502746cfe9eae37b5ff9f3d9eb71ae36",
-        "type": "low-liq",
+        "type": "univ3",
         "origin": ""
       },
       {
