@@ -18,6 +18,12 @@
         "type": "univ2",
         "origin": ""
        },
+       {
+        "symbol": "DEGEN-USDC",
+        "id": "0x04eea024bcf1b35d549295a85bf0348987c70b82d674dad6279e4f1218acf9bd",
+        "type": "univ3",
+        "origin": ""
+      },
       {
         "symbol": "DIRAC-HONEY",
         "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
