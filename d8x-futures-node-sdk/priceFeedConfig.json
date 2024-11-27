@@ -224,6 +224,12 @@
         "type": "pyth",
         "origin": "Crypto.POL/USD"
       },
+       {
+        "symbol": "BOOMER-USD",
+        "id": "0x174c13bf372c36bcb94b22fced96c97799018d6a99214675bb15215f57f19ff5",
+        "type": "v2",
+        "origin": ""
+       },
       {
         "symbol": "BRETT-USD",
         "id": "0x1b9107da5665c83e48ff6d36ede74317dff0d134b7980195a8bfe0976e41867a",
@@ -245,6 +251,11 @@
       },
       {
         "type": "v3",
+        "endpoints": ["https://odin-lowliq.d8x.xyz/"],
+        "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
+      },
+      {
+        "type": "v2",
         "endpoints": ["https://odin-lowliq.d8x.xyz/"],
         "writeEndpoints": ["https://odin-lowliq.d8x.xyz/"]
       }
