@@ -13,6 +13,12 @@
         "type": "pyth"
        },
        {
+        "symbol": "MIGGLES-USD",
+        "id": "0x48d694ba54f3ed4198f955be65e40271579605f2d7d9eb46670a206440878cfd",
+        "type": "univ2",
+        "origin": ""
+       },
+       {
         "symbol": "BENJI-USD",
         "id": "0xf0ecc269110a73b7427d95c0640d0054a11ac611725c42b126e22f38c1101711",
         "type": "univ2",
