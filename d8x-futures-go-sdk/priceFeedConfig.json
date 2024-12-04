@@ -37,6 +37,12 @@
         "origin": ""
       },
       {
+        "symbol": "BRETT-USDC",
+        "id": "0x1b9107da5665c83e48ff6d36ede74317dff0d134b7980195a8bfe0976e41867a",
+        "type": "univ3",
+        "origin": ""
+      },
+      {
         "symbol": "DIRAC-HONEY",
         "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
         "type": "univ3",
