@@ -54,7 +54,13 @@
         "type": "univ3",
         "origin": ""
       },
-        {
+      {
+        "symbol": "POLLEN-HONEY",
+        "id": "0xcd46c0dab215fea947a405107162f1f21197b123c9ee858f1e06dc8146ffe179",
+        "type": "univ3",
+        "origin": ""
+      },
+      {
         "symbol": "IBGT-HONEY",
         "id": "0x2cb8e3da2690aee73a495107a849e58989d73c1151719920b06bbdf1bb1a0150",
         "type": "univ3",
