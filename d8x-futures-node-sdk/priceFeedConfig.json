@@ -309,6 +309,24 @@
         "origin": ""
       },
       {
+        "symbol": "ARBERA-HONEY",
+        "id": "0x3900f58a9c128f6fbb355139376ce5ea7737d591c6ce3e8bd92bf1a6cfb98807",
+        "type": "v3",
+        "origin": ""
+      },
+      {
+        "symbol": "KEVIN-HONEY",
+        "id": "0xa241858734606bcb8584928879ee8efa7a9bda504c35ba6dfa2502a7497c5269",
+        "type": "v3",
+        "origin": ""
+      },
+      {
+        "symbol": "YEET-HONEY",
+        "id": "0xc170621c714da1023344460274c7ee7eee67fb6a20164e27803382754c3a413b",
+        "type": "v3",
+        "origin": ""
+      },
+      {
         "symbol": "IBGT-HONEY",
         "id": "0x2cb8e3da2690aee73a495107a849e58989d73c1151719920b06bbdf1bb1a0150",
         "type": "low-liq",
