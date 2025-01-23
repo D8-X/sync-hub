@@ -224,18 +224,18 @@
         "type": "pyth",
         "origin": "Crypto.POL/USD"
       },
-       {
+      {
         "symbol": "BENJI-USD",
         "id": "0xf0ecc269110a73b7427d95c0640d0054a11ac611725c42b126e22f38c1101711",
         "type": "v2",
         "origin": ""
-       },
-       {
+      },
+      {
         "symbol": "MIGGLES-USD",
         "id": "0x48d694ba54f3ed4198f955be65e40271579605f2d7d9eb46670a206440878cfd",
         "type": "v2",
         "origin": ""
-       },
+      },
       {
         "symbol": "BRETT-USD",
         "id": "0x1b9107da5665c83e48ff6d36ede74317dff0d134b7980195a8bfe0976e41867a",
@@ -283,14 +283,14 @@
         "comment": "DAI price for temporary feed honey-usdc",
         "id": "0xb0948a5e5313200c632b51bb5ca32f6de0d36e9950a942d19751e833f70dabfd",
         "type": "odin"
-       },
-       {
+      },
+      {
         "symbol": "RUSSEL.100-USDC",
         "id": "0x7132d432b86539d9bfac47dca0ff59d03fc76b8ed2f1fe050c7e4f5719d21fbf",
         "type": "v2",
         "origin": ""
-       },
-       {
+      },
+      {
         "symbol": "DIRAC-HONEY",
         "id": "0xebd937fe18c8122f35e2fb280f4b70343a8403dc848f02511d6791ae1db5a25f",
         "type": "low-liq",
@@ -409,6 +409,12 @@
         "id": "0x2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b",
         "type": "odin",
         "origin": "Crypto.USDT/USD"
+      },
+      {
+        "symbol": "bUSD-USD",
+        "id": "",
+        "type": "onchain",
+        "origin": ""
       }
     ],
     "endpoints": [
@@ -437,7 +443,8 @@
         "type": "polymarket",
         "endpoints": [""],
         "writeEndpoints": ["https://odin-poly.d8x.xyz"]
-      }
+      },
+      { "type": "onchain", "endpoints": [], "writeEndpoints": [] }
     ]
   }
 ]
