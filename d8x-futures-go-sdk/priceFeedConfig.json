@@ -6,6 +6,13 @@
     "threshOnChainFeedOutdatedSec": 86400,
     "ids": [
        {
+        "symbol": "FUST-FUSC",
+         "comment": "Test-pool bArtio",
+         "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
+         "type": "univ3",
+         "origin": ""
+       },
+       {
         "symbol": "HONEY-USDC",
         "origin": "Crypto.HONEY/USDC",
         "comment": "DAI price for temporary feed honey-usdc",
