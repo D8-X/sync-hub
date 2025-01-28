@@ -415,6 +415,12 @@
         "id": "",
         "type": "onchain",
         "origin": ""
+      },
+      {
+        "symbol": "FUST-FUSC",
+        "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
+        "type": "v3",
+        "origin": ""
       }
     ],
     "endpoints": [
