@@ -104,13 +104,6 @@
         "origin": ""
       },
       {
-        "symbol": "FED25BPS-USD",
-        "id": "0x199326ac3436c8a01052155eec8d85c5092c9c3c56e0f3590c5d96d89dceec2c",
-        "type": "polymarket",
-        "origin": "0xa11a9c66032cbe8c607bf1b21591f65dfee9d5eb65d73cc8ad5009c1f9826fa3",
-        "storkSym": ""
-      },
-      {
         "symbol": "TRMPUKR-USD",
         "id": "0xbbad52c7a569d729424c917dd3181149d59b5f4fc3115d510b91197c4368c22a",
         "type": "polymarket",
@@ -122,69 +115,6 @@
         "id": "0x99949191c4996cfb75262a15ee1ecc16c1cd07b8f0561694db177636b58321d4",
         "type": "polymarket",
         "origin": "0x586e7ee86609bd6ea5b71bddff7ea7877100c03d22ece5a336baa98aadacdb1a",
-        "storkSym": ""
-      },
-      {
-        "symbol": "BTCNOV90-USD",
-        "id": "0x3c711064722ff96741641b5b54f055874bbfb478042888fd4121a145c852060b",
-        "type": "polymarket",
-        "origin": "0x952e8d6dcd67c7d28720491a798e96a2729a57598cb04b4de6f6c2e6f75fd12b",
-        "storkSym": ""
-      },
-      {
-        "symbol": "BTC24100-USD",
-        "id": "0x8f7dd95917a1bcf74cd5964c9a779c267d38d4c6a87e8c7a66fae7fe30ada9a6",
-        "type": "polymarket",
-        "origin": "0x9c66114d2dfe2139325cc7a408a5cd5d2e73b55d919e2141b3a0ed83fc15895d",
-        "storkSym": ""
-      },
-      {
-        "symbol": "MCLAREN24-USD",
-        "id": "0xa54c8b0fca58649775eece82cf6bf4aea245a431bdff4dfba40f01a17e4c1248",
-        "type": "polymarket",
-        "origin": "0x6154df852fac6dd9748b97883c03220bb267ad2be71fa215c8df1431995db74d",
-        "storkSym": ""
-      },
-      {
-        "symbol": "WALZNOM-USD",
-        "id": "0x6710f215fe01867219fc338d0a68290f84c471d002b14b6decd92c2260d94cce",
-        "type": "polymarket",
-        "origin": "0x76dbb81a9fd937efa736aa23e6c0eb33aaf0f2ca4aa6c06da1d5529ed236ebfb",
-        "storkSym": "TWNOMYESUSD"
-      },
-      {
-        "symbol": "HARRIS24P-USD",
-        "id": "0x2f06f5a323466c1ad9a9a8afb19a21dd3fe0f39853a16ae58637086e8ff5838d",
-        "type": "polymarket",
-        "origin": "0x265366ede72d73e137b2b9095a6cdc9be6149290caa295738a95e3d881ad0865",
-        "storkSym": "KHPOPWINYESUSD"
-      },
-      {
-        "symbol": "SUPBWL49-USD",
-        "id": "0x7eea0b94fc1916efdd031978918abba566b9aef7f12b3d5a5b0f7141fd8e0b33",
-        "type": "polymarket",
-        "origin": "0x67e68c5eee8ac767dd1177de8c653b20642fee48f0f2a56d784e4856b130749d",
-        "storkSym": "49SBWINYESUSD"
-      },
-      {
-        "symbol": "INSOUT2-USD",
-        "id": "0x6ec8114a0dba99a037c7122c93a68f2ab905c3e42e2b82e1ce659aef96de58f2",
-        "type": "polymarket",
-        "origin": "0x1ab07117f9f698f28490f57754d6fe5309374230c95867a7eba572892a11d710",
-        "storkSym": "INSIDEOUT2WINYESUSD"
-      },
-      {
-        "symbol": "TRUMP24-USD",
-        "id": "0x3011e4ede0f6befa0ad3f571001d3e1ffeef3d4af78c3112aaac90416e3a43e7",
-        "type": "polymarket",
-        "origin": "0xdd22472e552920b8438158ea7238bfadfa4f736aa4cee91a6b86c39ead110917",
-        "storkSym": "DJTWINYESUSD"
-      },
-      {
-        "symbol": "BTLJ-USD",
-        "id": "0xe40f3ef726a04ad63510baf90238f6bcacf4365db2a38e02a6e8623c2bedc97d",
-        "type": "polymarket",
-        "origin": "0x3157ea263270be44bd68a3d6bde1f6f639be2746974f65de24e00ea6378d7838",
         "storkSym": ""
       },
       {
