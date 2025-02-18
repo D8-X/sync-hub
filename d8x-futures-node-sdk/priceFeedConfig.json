@@ -248,6 +248,18 @@
         "type": "v3",
         "origin": "",
         "comment": "for base deployment"
+      },
+      {
+        "symbol": "BERA-USD",
+        "id": "0x962088abcfdbdb6e30db2e340c8cf887d9efb311b1f2f17b155a63dbb6d40265",
+        "type": "pyth",
+        "origin": "Crypto.BERA/USD"
+      },
+      {
+        "symbol": "bUSD-USD",
+        "id": "",
+        "type": "onchain",
+        "origin": ""
       }
     ],
     "endpoints": [

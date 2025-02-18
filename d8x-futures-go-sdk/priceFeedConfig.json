@@ -5,39 +5,39 @@
     "threshOffChainFeedOutdatedSec": 60,
     "threshOnChainFeedOutdatedSec": 86400,
     "ids": [
-       {
+      {
         "symbol": "FUST-USDC",
-         "comment": "Test-pool bArtio",
-         "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
-         "type": "univ3",
-         "origin": ""
-       },
-       {
+        "comment": "Test-pool bArtio",
+        "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
+        "type": "univ3",
+        "origin": ""
+      },
+      {
         "symbol": "HONEY-USDC",
         "origin": "Crypto.HONEY/USDC",
         "comment": "DAI price for temporary feed honey-usdc",
         "id": "0xb0948a5e5313200c632b51bb5ca32f6de0d36e9950a942d19751e833f70dabfd",
         "type": "pyth"
-       },
-       {
+      },
+      {
         "symbol": "MIGGLES-USD",
         "id": "0x48d694ba54f3ed4198f955be65e40271579605f2d7d9eb46670a206440878cfd",
         "type": "univ2",
         "origin": ""
-       },
-       {
+      },
+      {
         "symbol": "BENJI-USD",
         "id": "0xf0ecc269110a73b7427d95c0640d0054a11ac611725c42b126e22f38c1101711",
         "type": "univ2",
         "origin": ""
-       },
-       {
+      },
+      {
         "symbol": "RUSSEL.100-USDC",
         "id": "0x7132d432b86539d9bfac47dca0ff59d03fc76b8ed2f1fe050c7e4f5719d21fbf",
         "type": "univ2",
         "origin": ""
-       },
-       {
+      },
+      {
         "symbol": "BRETT-USD",
         "id": "0x1b9107da5665c83e48ff6d36ede74317dff0d134b7980195a8bfe0976e41867a",
         "type": "univ3",
@@ -278,6 +278,18 @@
         "id": "0xffd11c5a1cfd42f80afb2df4d9f264c15f956d68153335374ec10722edd70472",
         "type": "pyth",
         "origin": "Crypto.POL/USD"
+      },
+      {
+        "symbol": "BERA-USD",
+        "id": "0x962088abcfdbdb6e30db2e340c8cf887d9efb311b1f2f17b155a63dbb6d40265",
+        "type": "pyth",
+        "origin": "Crypto.BERA/USD"
+      },
+      {
+        "symbol": "BUSD-USD",
+        "id": "",
+        "type": "onchain",
+        "origin": ""
       }
     ]
   }
