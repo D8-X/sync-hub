@@ -225,6 +225,13 @@
         "origin": "Crypto.POL/USD"
       },
       {
+        "symbol": "RAMEN-USD",
+        "comment": "berachain x pyth",
+        "id": "0xa86d3c73b4a9358d6583440f60c9c673cf14d4de8ce93c4a5b38c0c5bf3c9901",
+        "type": "v2",
+        "origin": ""
+      },
+      {
         "symbol": "BENJI-USD",
         "id": "0xf0ecc269110a73b7427d95c0640d0054a11ac611725c42b126e22f38c1101711",
         "type": "v2",
