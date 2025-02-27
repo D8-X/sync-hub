@@ -6,6 +6,13 @@
     "threshOnChainFeedOutdatedSec": 86400,
     "ids": [
       {
+        "symbol": "RAMEN-USD",
+        "comment": "berachain x pyth",
+        "id": "0xa86d3c73b4a9358d6583440f60c9c673cf14d4de8ce93c4a5b38c0c5bf3c9901",
+        "type": "univ2",
+        "origin": ""
+      },
+      {
         "symbol": "FUST-USDC",
         "comment": "Test-pool bArtio",
         "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
