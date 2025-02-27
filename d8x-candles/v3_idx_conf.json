@@ -4,7 +4,7 @@
         "descr": "base v3 indices on Base",
         "poolChainId": 8453,
         "indices" : [
-            {"symbol":"BRETT-USDC", "contractSize": 1,  "triang": ["/", "ETH-BRETT", "*", "ETH-USDC"]}
+            {"symbol":"BRETT-USDC", "contractSize": 1, "fromPools": "BRETT-USDC",  "triang": ["/", "ETH-BRETT", "*", "ETH-USDC"], "fromPyth": ""}
         ],
         "pools" : [
             {
@@ -24,7 +24,7 @@
         "descr": "base v3 indices on Arbitrum",
         "poolChainId": 8453,
         "indices" : [
-            {"symbol":"BRETT-USD", "contractSize": 1,  "triang": ["/", "ETH-BRETT", "*", "ETH-USDC"]}
+            {"symbol":"BRETT-USD", "contractSize": 1,  "fromPools": "BRETT-USDC", "triang": ["/", "ETH-BRETT", "*", "ETH-USDC"], "fromPyth": "USDC-USD"}
         ],
         "pools" : [
             {
@@ -43,15 +43,14 @@
         "chainId": 80084,
         "poolChainId": 80084,
         "indices" : [
-            {"symbol":"DIRAC-HONEY", "contractSize": 1,  "triang": ["/", "HONEY-DIRAC"]},
-            {"symbol":"BUDS-HONEY", "contractSize": 1, "triang": ["/", "WBERA-BUDS", "/", "HONEY-WBERA"]},
-            {"symbol":"IBGT-HONEY", "contractSize": 1, "triang": ["*", "IBGT-WBERA", "/", "HONEY-WBERA"]},
-            {"symbol":"BDEG-HONEY", "contractSize": 1, "triang": ["/", "HONEY-BDEG"]},
-            {"symbol":"BEARTIC-HONEY", "contractSize": 1, "triang": ["/", "HONEY-BEARTIC"]},
-            {"symbol":"POLLEN-HONEY", "contractSize": 1, "triang": ["/", "HONEY-POLLEN"]},
-            {"symbol":"KEVIN-HONEY", "contractSize": 1, "triang": ["/","WBERA-KEVIN","/", "HONEY-WBERA"]},
-            {"symbol":"YEET-HONEY", "contractSize": 1, "triang": ["*","YEET-WBERA","/", "HONEY-WBERA"]},
-            {"symbol":"ARBERA-HONEY", "contractSize": 1, "triang": ["/", "HONEY-ARBERA"]}
+            {"symbol":"DIRAC-HONEY", "contractSize": 1, "fromPools": "DIRAC-HONEY", "triang": ["/", "HONEY-DIRAC"], "fromPyth": ""},
+            {"symbol":"BUDS-HONEY", "contractSize": 1, "fromPools": "BUDS-HONEY","triang": ["/", "WBERA-BUDS", "/", "HONEY-WBERA"], "fromPyth": ""},
+            {"symbol":"IBGT-HONEY", "contractSize": 1, "fromPools": "IBGT-HONEY","triang": ["*", "IBGT-WBERA", "/", "HONEY-WBERA"], "fromPyth": ""},
+            {"symbol":"BDEG-HONEY", "contractSize": 1, "fromPools": "BDEG-HONEY","triang": ["/", "HONEY-BDEG"], "fromPyth": ""},
+            {"symbol":"BEARTIC-HONEY", "contractSize": 1, "fromPools": "BEARTIC-HONEY","triang": ["/", "HONEY-BEARTIC"], "fromPyth": ""},
+            {"symbol":"KEVIN-HONEY", "contractSize": 1, "fromPools": "KEVIN-HONEY","triang": ["/","WBERA-KEVIN","/", "HONEY-WBERA"], "fromPyth": ""},
+            {"symbol":"YEET-HONEY", "contractSize": 1, "fromPools": "YEET-HONEY","triang": ["*","YEET-WBERA","/", "HONEY-WBERA"], "fromPyth": ""},
+            {"symbol":"ARBERA-HONEY", "contractSize": 1, "fromPools": "ARBERA-HONEY","triang": ["/", "HONEY-ARBERA"], "fromPyth": ""}
         ],
         "pools" : [
             {
@@ -82,11 +81,6 @@
             {
                 "symbol": "HONEY-DIRAC",
                 "addr": "0xea2e981f185e6a4b53eb1b72792cf02e2ebcbdcb",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "HONEY-POLLEN",
-                "addr": "0xfe9baa75f1f26ced654bbd665b6e154a1f82f309",
                 "tokenDec": [18, 18]
             },
             {
