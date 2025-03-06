@@ -263,7 +263,7 @@
         "origin": "Crypto.BERA/USD"
       },
       {
-        "symbol": "BUSD-USD",
+        "symbol": "bUSD-USD",
         "id": "",
         "type": "onchain",
         "origin": ""
