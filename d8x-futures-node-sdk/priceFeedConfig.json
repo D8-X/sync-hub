@@ -232,6 +232,13 @@
         "origin": ""
       },
       {
+        "symbol": "HENLO.1000-USD",
+        "comment": "berachain x pyth",
+        "id": "0xb61e541b6dbc43bc3bb368ab3d19625a3a9d32bd567ba0f9f11a2f0a91e560fd",
+        "type": "v2",
+        "origin": ""
+      },
+      {
         "symbol": "BENJI-USD",
         "id": "0xf0ecc269110a73b7427d95c0640d0054a11ac611725c42b126e22f38c1101711",
         "type": "v2",
