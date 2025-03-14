@@ -13,6 +13,13 @@
         "origin": ""
       },
       {
+        "symbol": "HENLO.1000-USD",
+        "comment": "berachain x pyth",
+        "id": "0xb61e541b6dbc43bc3bb368ab3d19625a3a9d32bd567ba0f9f11a2f0a91e560fd",
+        "type": "univ2",
+        "origin": ""
+      },
+      {
         "symbol": "FUST-USDC",
         "comment": "Test-pool bArtio",
         "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
