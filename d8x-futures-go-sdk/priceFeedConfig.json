@@ -20,6 +20,13 @@
         "origin": ""
       },
       {
+        "symbol": "BM.1000-USD",
+        "comment": "berachain x pyth",
+        "id": "0x9d88787a27239054e39734636fe2b495bcac693db8c360e9b928b3be99554dd1",
+        "type": "univ2",
+        "origin": ""
+      },
+      {
         "symbol": "FUST-USDC",
         "comment": "Test-pool bArtio",
         "id": "0xdd9794bb7b787392a8079fcfe5f6a281b7d4c58a49da9f16b7266b0264e947f3",
