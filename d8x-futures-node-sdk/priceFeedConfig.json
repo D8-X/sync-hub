@@ -239,6 +239,13 @@
         "origin": ""
       },
       {
+        "symbol": "BM.1000-USD",
+        "comment": "berachain x pyth",
+        "id": "0x9d88787a27239054e39734636fe2b495bcac693db8c360e9b928b3be99554dd1",
+        "type": "v2",
+        "origin": ""
+      },
+      {
         "symbol": "BENJI-USD",
         "id": "0xf0ecc269110a73b7427d95c0640d0054a11ac611725c42b126e22f38c1101711",
         "type": "v2",
