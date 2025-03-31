@@ -237,6 +237,13 @@
         "id": "0xb61e541b6dbc43bc3bb368ab3d19625a3a9d32bd567ba0f9f11a2f0a91e560fd",
         "type": "v2",
         "origin": ""
+      }, 
+      {
+        "symbol": "YEET.100-USD",
+        "comment": "berachain x pyth",
+        "id": "0xdf5b4ab0bbcf3e973ac682ab0da0af17a14fc06b57d56c4833a70dcb3db1c178",
+        "type": "v2",
+        "origin": ""
       },
       {
         "symbol": "BM.1000-USD",
@@ -350,12 +357,6 @@
       {
         "symbol": "KEVIN-HONEY",
         "id": "0xa241858734606bcb8584928879ee8efa7a9bda504c35ba6dfa2502a7497c5269",
-        "type": "v3",
-        "origin": ""
-      },
-      {
-        "symbol": "YEET-HONEY",
-        "id": "0xc170621c714da1023344460274c7ee7eee67fb6a20164e27803382754c3a413b",
         "type": "v3",
         "origin": ""
       },
