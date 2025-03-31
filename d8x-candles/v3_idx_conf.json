@@ -43,7 +43,7 @@
         "chainId": 80094,
         "poolChainId": 80094,
         "indices" : [
-            {"symbol":"YEET.100-USD", "contractSize": 1, "fromPools": "YEET-WBERA", "triang": ["*", "YEET-WBERA"], "fromPyth": "BERA-USD"}
+            {"symbol":"YEET.100-USD", "contractSize": 100, "fromPools": "YEET-WBERA", "triang": ["*", "YEET-WBERA"], "fromPyth": "BERA-USD"}
         ],
         "pools": [
             {
