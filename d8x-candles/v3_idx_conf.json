@@ -38,64 +38,19 @@
                 "tokenDec": [18, 6]
             }
         ]
-    },    
+    },
     {
-        "chainId": 80084,
-        "poolChainId": 80084,
+        "chainId": 80094,
+        "poolChainId": 80094,
         "indices" : [
-            {"symbol":"DIRAC-HONEY", "contractSize": 1, "fromPools": "DIRAC-HONEY", "triang": ["/", "HONEY-DIRAC"], "fromPyth": ""},
-            {"symbol":"BUDS-HONEY", "contractSize": 1, "fromPools": "BUDS-HONEY","triang": ["/", "WBERA-BUDS", "/", "HONEY-WBERA"], "fromPyth": ""},
-            {"symbol":"IBGT-HONEY", "contractSize": 1, "fromPools": "IBGT-HONEY","triang": ["*", "IBGT-WBERA", "/", "HONEY-WBERA"], "fromPyth": ""},
-            {"symbol":"BDEG-HONEY", "contractSize": 1, "fromPools": "BDEG-HONEY","triang": ["/", "HONEY-BDEG"], "fromPyth": ""},
-            {"symbol":"BEARTIC-HONEY", "contractSize": 1, "fromPools": "BEARTIC-HONEY","triang": ["/", "HONEY-BEARTIC"], "fromPyth": ""},
-            {"symbol":"KEVIN-HONEY", "contractSize": 1, "fromPools": "KEVIN-HONEY","triang": ["/","WBERA-KEVIN","/", "HONEY-WBERA"], "fromPyth": ""},
-            {"symbol":"YEET-HONEY", "contractSize": 1, "fromPools": "YEET-HONEY","triang": ["*","YEET-WBERA","/", "HONEY-WBERA"], "fromPyth": ""},
-            {"symbol":"ARBERA-HONEY", "contractSize": 1, "fromPools": "ARBERA-HONEY","triang": ["/", "HONEY-ARBERA"], "fromPyth": ""}
+            {"symbol":"YEET.100-USD", "contractSize": 1, "fromPools": "YEET-WBERA", "triang": ["*", "YEET-WBERA"], "fromPyth": "BERA-USD"}
         ],
-        "pools" : [
-            {
-                "symbol": "HONEY-WBERA",
-                "addr": "0x8a960a6e5f224d0a88bad10463bdad161b68c144",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "HONEY-BEARTIC",
-                "addr": "0xab8b3bf6c1f09f8b8955c1bd2c35d83e25d6bb13",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "WBERA-BUDS",
-                "addr": "0x7912705080a8aa819e97eda946d5cdf2702faa47",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "IBGT-WBERA",
-                "addr": "0x4302b57ba521cf2137e8af85990ab1ca2e241126",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "HONEY-BDEG",
-                "addr": "0x0E4E67fb43F3467077619410A34d21cdB52eB992",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "HONEY-DIRAC",
-                "addr": "0xea2e981f185e6a4b53eb1b72792cf02e2ebcbdcb",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "WBERA-KEVIN",
-                "addr": "0x702567A48db434d0E31a0572da774f2548c1a6E8",
-                "tokenDec": [18, 18]
-            },
+        "pools": [
             {
                 "symbol": "YEET-WBERA",
-                "addr": "0xb6a43bc17680fb67fd8371977d264e047f47c675",
-                "tokenDec": [18, 18]
-            },
-            {
-                "symbol": "HONEY-ARBERA",
-                "addr": "0x2c5cd76A57eBcCF0307A2ffed1FA666057A875A7",
+                "addr": "0xf065f7cCf54Ef8596FE77A4836d963d5aF84EB5d",
+                "tokenAddr": ["0x08A38Caa631DE329FF2DAD1656CE789F31AF3142",
+                        "0x6969696969696969696969696969696969696969"],
                 "tokenDec": [18, 18]
             }
         ]
