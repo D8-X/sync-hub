@@ -290,6 +290,12 @@
         "origin": "Equity.US.VOO/USD"
       },
       {
+        "symbol": "NDAQ-USD",
+        "id": "0x1d4ad1c94a6828b41d3165abd4ee59491a9cc9194e2b8a672fc0aa2ad228ab47",
+        "type": "pyth",
+        "origin": "Equity.US.NDAQ/USD"
+      },
+      {
         "symbol": "BUSD-USD",
         "id": "",
         "type": "onchain",
