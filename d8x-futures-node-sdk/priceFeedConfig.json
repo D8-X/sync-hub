@@ -284,6 +284,12 @@
         "origin": "Crypto.BERA/USD"
       },
       {
+        "symbol": "SPX-USD",
+        "id": "0x236b30dd09a9c00dfeec156c7b1efd646c0f01825a1758e3e4a0679e3bdff179",
+        "type": "pyth",
+        "origin": "Equity.US.VOO/USD"
+      },
+      {
         "symbol": "BUSD-USD",
         "id": "",
         "type": "onchain",
