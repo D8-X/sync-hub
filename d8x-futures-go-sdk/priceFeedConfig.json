@@ -46,6 +46,12 @@
         "type": "pyth"
       },
       {
+        "symbol": "NDAQ-USD",
+        "origin": "Equity.US.NDAQ/USD",
+        "id": "0x1d4ad1c94a6828b41d3165abd4ee59491a9cc9194e2b8a672fc0aa2ad228ab47",
+        "type": "pyth"
+      },
+      {
         "symbol": "HONEY-USDC",
         "origin": "Crypto.HONEY/USDC",
         "comment": "DAI price for temporary feed honey-usdc",
