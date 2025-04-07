@@ -41,13 +41,13 @@
       },
       {
         "symbol": "SPX-USD",
-        "origin": "Equity.VOO/USD",
+        "origin": "Equity.US.VOO/USD",
         "id": "0x236b30dd09a9c00dfeec156c7b1efd646c0f01825a1758e3e4a0679e3bdff179",
         "type": "pyth"
       },
       {
         "symbol": "NDAQ-USD",
-        "origin": "Equity.NDAQ/USD",
+        "origin": "Equity.US.NDAQ/USD",
         "id": "0x1d4ad1c94a6828b41d3165abd4ee59491a9cc9194e2b8a672fc0aa2ad228ab47",
         "type": "pyth"
       },
