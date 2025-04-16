@@ -323,6 +323,12 @@
         "id": "",
         "type": "onchain",
         "origin": ""
+      },
+      {
+        "symbol": "TSLA-USD",
+        "origin": "Equity.US.TSLA/USD",
+        "id": "0x16dad506d7db8da01c87581c87ca897a012a153557d4d578c3b9c9e1bc0632f1",
+        "type": "pyth"
       }
     ]
   }
