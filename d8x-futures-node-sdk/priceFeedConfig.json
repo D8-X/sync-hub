@@ -237,7 +237,7 @@
         "id": "0xb61e541b6dbc43bc3bb368ab3d19625a3a9d32bd567ba0f9f11a2f0a91e560fd",
         "type": "v2",
         "origin": ""
-      }, 
+      },
       {
         "symbol": "YEET.100-USD",
         "comment": "berachain x pyth",
@@ -294,6 +294,12 @@
         "id": "0x1d4ad1c94a6828b41d3165abd4ee59491a9cc9194e2b8a672fc0aa2ad228ab47",
         "type": "pyth",
         "origin": "Equity.US.NDAQ/USD"
+      },
+      {
+        "symbol": "TSLA-USD",
+        "origin": "Equity.US.TSLA/USD",
+        "id": "0x16dad506d7db8da01c87581c87ca897a012a153557d4d578c3b9c9e1bc0632f1",
+        "type": "pyth"
       },
       {
         "symbol": "BUSD-USD",
