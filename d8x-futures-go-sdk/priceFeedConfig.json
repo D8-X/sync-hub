@@ -6,6 +6,13 @@
     "threshOnChainFeedOutdatedSec": 86400,
     "ids": [
       {
+        "symbol": "OHM-HONEY",
+        "comment": "berachain",
+        "id": "0x0dd2f4a58131801d1a107f29e45ae8c94bacc1ecc29f0ab01dabb9141e7ce25d",
+        "type": "univ3",
+        "origin": ""
+      },   
+      {
         "symbol": "RAMEN-USD",
         "comment": "berachain x pyth",
         "id": "0xa86d3c73b4a9358d6583440f60c9c673cf14d4de8ce93c4a5b38c0c5bf3c9901",
