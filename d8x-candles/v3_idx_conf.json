@@ -43,7 +43,8 @@
         "chainId": 80094,
         "poolChainId": 80094,
         "indices" : [
-            {"symbol":"YEET.100-USD", "contractSize": 100, "fromPools": "YEET-WBERA", "triang": ["*", "YEET-WBERA"], "fromPyth": "BERA-USD"}
+            {"symbol":"YEET.100-USD", "contractSize": 100, "fromPools": "YEET-WBERA", "triang": ["*", "YEET-WBERA"], "fromPyth": "BERA-USD"},
+            {"symbol":"OHM-HONEY", "contractSize": 1, "fromPools": "OHM-HONEY", "triang": ["*", "OHM-HONEY"], "fromPyth": ""}
         ],
         "pools": [
             {
@@ -52,6 +53,13 @@
                 "tokenAddr": ["0x08A38Caa631DE329FF2DAD1656CE789F31AF3142",
                         "0x6969696969696969696969696969696969696969"],
                 "tokenDec": [18, 18]
+            },
+            {     
+                "symbol": "OHM-HONEY",
+                "addr": "0x75159c541bd49b1b6c51f5f3e796579e7cccb071",
+                "tokenAddr": ["0x18878Df23e2a36f81e820e4b47b4A40576D3159C",
+                        "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"],
+                "tokenDec": [9, 18]
             }
         ]
     }
