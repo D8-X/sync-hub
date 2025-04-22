@@ -246,6 +246,13 @@
         "origin": ""
       },
       {
+        "symbol": "OHM-HONEY",
+        "comment": "berachain",
+        "id": "0x0dd2f4a58131801d1a107f29e45ae8c94bacc1ecc29f0ab01dabb9141e7ce25d",
+        "type": "v3",
+        "origin": ""
+      },   
+      {
         "symbol": "BM.1000-USD",
         "comment": "berachain x pyth",
         "id": "0x9d88787a27239054e39734636fe2b495bcac693db8c360e9b928b3be99554dd1",
