@@ -13,6 +13,13 @@
         "origin": ""
       },
       {
+        "symbol": "POLLEN.100-USD",
+        "comment": "berachain x pyth",
+        "id": "0x260d5b357d98c20d575b92ac529e7df44c2cb41130d1d265bee38b3ca8f2340d",
+        "type": "univ3",
+        "origin": ""
+      },
+      {
         "symbol": "RAMEN-USD",
         "comment": "berachain x pyth",
         "id": "0xa86d3c73b4a9358d6583440f60c9c673cf14d4de8ce93c4a5b38c0c5bf3c9901",
