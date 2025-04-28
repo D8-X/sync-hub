@@ -246,6 +246,13 @@
         "origin": ""
       },
       {
+        "symbol": "POLLEN.100-USD",
+        "comment": "berachain x pyth",
+        "id": "0x260d5b357d98c20d575b92ac529e7df44c2cb41130d1d265bee38b3ca8f2340d",
+        "type": "v3",
+        "origin": ""
+      },
+      {
         "symbol": "OHM-HONEY",
         "comment": "berachain",
         "id": "0x0dd2f4a58131801d1a107f29e45ae8c94bacc1ecc29f0ab01dabb9141e7ce25d",
