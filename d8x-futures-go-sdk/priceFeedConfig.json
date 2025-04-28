@@ -11,7 +11,7 @@
         "id": "0x0dd2f4a58131801d1a107f29e45ae8c94bacc1ecc29f0ab01dabb9141e7ce25d",
         "type": "univ3",
         "origin": ""
-      },   
+      },
       {
         "symbol": "RAMEN-USD",
         "comment": "berachain x pyth",
@@ -335,6 +335,36 @@
         "symbol": "TSLA-USD",
         "origin": "Equity.US.TSLA/USD",
         "id": "0x16dad506d7db8da01c87581c87ca897a012a153557d4d578c3b9c9e1bc0632f1",
+        "type": "pyth"
+      },
+      {
+        "symbol": "WTI-USD",
+        "origin": "Commodities.WTI1M",
+        "id": "0xeca3fb7e6be5be55a01678ee00f6405b9e4986e32d539ccd2a06a57e0c615880",
+        "type": "pyth"
+      },
+      {
+        "symbol": "XAG-USD",
+        "origin": "Metal.XAG/USD",
+        "id": "0xf2fb02c32b055c805e7238d628e5e9dadef274376114eb1f012337cabe93871e",
+        "type": "pyth"
+      },
+      {
+        "symbol": "EEM-USD",
+        "origin": "Equity.US.EEM/USD",
+        "id": "0xd407e68cec58205be82a6140a668dc42f8d9079bcf3be4aa4b41f41f7b983035",
+        "type": "pyth"
+      },
+      {
+        "symbol": "EUE-EUR",
+        "origin": "Equity.IE.EUE/EUR",
+        "id": "0xdd08f0a40e21ce42178b25bdd9461a2beebccbaa2a781a6e02b323576c4072ab",
+        "type": "pyth"
+      },
+      {
+        "symbol": "MCHI-USD",
+        "origin": "Equity.US.MCHI/USD",
+        "id": "0x33e3853fe3382522aec843bcc3e795bc62ef9d48a47fe2ea7e777926a7ac70f7",
         "type": "pyth"
       }
     ]
