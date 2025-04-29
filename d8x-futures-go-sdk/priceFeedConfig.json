@@ -346,7 +346,7 @@
       },
       {
         "symbol": "WTI-USD",
-        "origin": "Commodities.WTI1M",
+        "origin": "Commodities.WTI1M/USD",
         "id": "0xeca3fb7e6be5be55a01678ee00f6405b9e4986e32d539ccd2a06a57e0c615880",
         "type": "pyth"
       },
