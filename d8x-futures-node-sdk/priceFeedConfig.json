@@ -260,6 +260,20 @@
         "origin": ""
       },
       {
+        "symbol": "IBGT-USD",
+        "comment": "berachain",
+        "id": "6471048f60170603a9cb8b63b2095ad71d4bff9b8d2ba5560850a5ec17414ee3",
+        "type": "v3",
+        "origin": ""
+      },
+      {
+        "symbol": "LBGT-USD",
+        "comment": "berachain",
+        "id": "4fbc99b186e9aaa169f462f275a267d408b3cdb214e7eb35649a395e3297c636",
+        "type": "v3",
+        "origin": ""
+      },
+      {
         "symbol": "BM.1000-USD",
         "comment": "berachain x pyth",
         "id": "0x9d88787a27239054e39734636fe2b495bcac693db8c360e9b928b3be99554dd1",
