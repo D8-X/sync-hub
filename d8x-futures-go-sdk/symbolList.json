@@ -55,5 +55,7 @@
   "BM": "BM.1000",
   "SPX": "SPX",
   "TSLA": "TSLA",
-  "OHM": "OHM"
+  "OHM": "OHM",
+  "IBGT":"IBGT",
+  "LBGT":"LBGT"
 }
