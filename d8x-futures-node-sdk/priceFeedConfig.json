@@ -364,6 +364,24 @@
         "id": "",
         "type": "onchain",
         "origin": ""
+      },
+      {
+        "symbol": "MSTR-USD",
+        "origin": "Equity.US.MSTR/USD",
+        "id": "0xe1e80251e5f5184f2195008382538e847fafc36f751896889dd3d1b1f6111f09",
+        "type": "pyth"
+      },
+      {
+        "symbol": "CRCL-USD",
+        "origin": "Equity.US.CRCL/USD",
+        "id": "0x92b8527aabe59ea2b12230f7b532769b133ffb118dfbd48ff676f14b273f1365",
+        "type": "pyth"
+      },
+      {
+        "symbol": "COIN-USD",
+        "origin": "Equity.US.COIN/USD",
+        "id": "0xfee33f2a978bf32dd6b662b65ba8083c6773b494f8401194ec1870c640860245",
+        "type": "pyth"
       }
     ],
     "endpoints": [
