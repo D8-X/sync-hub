@@ -60,6 +60,7 @@
   "SPX": "SPX",
   "TSLA": "TSLA",
   "OHM": "OHM",
-  "IBGT":"IBGT",
-  "LBGT":"LBGT"
+  "IBGT": "IBGT",
+  "LBGT": "LBGT",
+  "BTCN": "BITCOIN"
 }
