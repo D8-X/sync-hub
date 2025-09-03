@@ -400,6 +400,12 @@
         "origin": "Crypto.BITCOIN/USD",
         "id": "0xc5e0e0c92116c0c070a242b254270441a6201af680a33e0381561c59db3266c9",
         "type": "pyth"
+      },
+      {
+        "symbol": "DOLO-USD",
+        "origin": "Crypto.DOLO/USD",
+        "id": "0xad92c3a160d0cff06d1490cf0701ee31666c337167ce3924865f3ffada785247",
+        "type": "pyth"
       }
     ],
     "endpoints": [
