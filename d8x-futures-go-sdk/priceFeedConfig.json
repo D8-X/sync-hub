@@ -6,6 +6,11 @@
     "threshOnChainFeedOutdatedSec": 86400,
     "ids": [
       {
+        "symbol": "NHL0-USD:84532",
+        "id": "0x2405d85c6214b64105d84223f02048215b882aa4abeea54c4a3840ed5b6340e3",
+        "type": "sports"
+      },
+      {
         "symbol": "IBGT-USD",
         "comment": "berachain",
         "id": "0x6471048f60170603a9cb8b63b2095ad71d4bff9b8d2ba5560850a5ec17414ee3",
