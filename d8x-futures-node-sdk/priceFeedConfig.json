@@ -8,6 +8,26 @@
         "type": "polymarket"
       },
       {
+        "symbol": "NHL1-USD:84532",
+        "id": "0xbadeee015a2f17416083f145d94b70627ace8816686690103e2e2d38e9b71f0d",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "NHL2-USD:84532",
+        "id": "0x17387d89f00c5e137f55c2ad3a014a1066ff9a57e4969b1ff05791fb54042c4d",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "NHL3-USD:84532",
+        "id": "0xfef7160f05e358d3eb8392f1baa599b8082ba8be2ea20e7382e3c52994deaf72",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "MLB0-USD:84532",
+        "id": "0x3dd391dc372d078527605e891fd4128c87295382096dbef734a4539f400fd24c",
+        "type": "polymarket"
+      },
+      {
         "symbol": "PUSD-USD",
         "id": "0x2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b",
         "type": "pyth",
