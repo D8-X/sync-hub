@@ -23,8 +23,33 @@
         "type": "polymarket"
       },
       {
+        "symbol": "NHL4-USD:84532",
+        "id": "0x84a64fae1b57d4808b96cbee386365206b5c1c63ac532ef340974ad284b4ec69",
+        "type": "polymarket"
+      },
+      {
         "symbol": "MLB0-USD:84532",
         "id": "0x3dd391dc372d078527605e891fd4128c87295382096dbef734a4539f400fd24c",
+        "type": "polymarket"
+      },
+       {
+        "symbol": "MLB1-USD:84532",
+        "id": "0xefef6f480f1a1a6c8c10970f8878649a340266a418ace2076259040ab342e383",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "MLB2-USD:84532",
+        "id": "0xf643545aaf9e3659b8e67b3718e90cc4df047fd9302ff4549a34e5fee00e510d",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "MLB3-USD:84532",
+        "id": "0xbb3398543cf7261f03a9bfb163038d29844952cafa26b1472502a08b9c926d26",
+        "type": "polymarket"
+      },
+       {
+        "symbol": "MLB4-USD:84532",
+        "id": "0xa75e7d11863e766599c01c195d6b7d2842e0fb2c7b738a0c94edac7f2bbab129",
         "type": "polymarket"
       },
       {
