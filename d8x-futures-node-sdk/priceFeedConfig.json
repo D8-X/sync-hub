@@ -2,7 +2,7 @@
   {
     "network": "mainnet",
     "ids": [
-       {
+      {
         "symbol": "NHL0-USD:84532",
         "id": "0x2405d85c6214b64105d84223f02048215b882aa4abeea54c4a3840ed5b6340e3",
         "type": "polymarket"
@@ -32,7 +32,7 @@
         "id": "0x3dd391dc372d078527605e891fd4128c87295382096dbef734a4539f400fd24c",
         "type": "polymarket"
       },
-       {
+      {
         "symbol": "MLB1-USD:84532",
         "id": "0xefef6f480f1a1a6c8c10970f8878649a340266a418ace2076259040ab342e383",
         "type": "polymarket"
@@ -47,9 +47,509 @@
         "id": "0xbb3398543cf7261f03a9bfb163038d29844952cafa26b1472502a08b9c926d26",
         "type": "polymarket"
       },
-       {
+      {
         "symbol": "MLB4-USD:84532",
         "id": "0xa75e7d11863e766599c01c195d6b7d2842e0fb2c7b738a0c94edac7f2bbab129",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP00-USD:84532",
+        "id": "0xbfeb2944776d99a559e63a2b60228c4e079d7c79e8343c52a22e05235123d3a5",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP01-USD:84532",
+        "id": "0xbc5c064af992a3edc1fc7a430b7095f3eba66a90a804f51957b12eaeaa640acd",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP02-USD:84532",
+        "id": "0x39e1a35c123e362e728eeaa9710f8a2cc2a3edb125270617456b443c52f494ed",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP03-USD:84532",
+        "id": "0xe44981da24db65686746e8de99459e58025d0610efcfdde8eb717dce0a6b1c2d",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP04-USD:84532",
+        "id": "0xc6412b75c9a240a72adfddbdf4913284d93bde8c008680a2e0367fccf28a660a",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP05-USD:84532",
+        "id": "0x9ee6cf5569ea08965b8982594788cc752a50d485fc47843563aa5bb7eed1b3b1",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP06-USD:84532",
+        "id": "0x1157071ea1f87c9e7f54de33ca92df9f4d4eb2707a9442bd93fc246a17a48034",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP07-USD:84532",
+        "id": "0x4bef416c9fac0901880d78ab2ed4fb0d0411bf4e971c157f0907c1467f4f5ca0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP08-USD:84532",
+        "id": "0x51c163c68f7b31b97b6caade555697addf68f07ad490fe7e281e16505ebc0baa",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP09-USD:84532",
+        "id": "0x407e3283e33fa4621d80f47bee966a3c1000acd20f957338f807fa457eb15499",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0A-USD:84532",
+        "id": "0x48705ccdafa9fddfcd4ec78b8118a727b94da7c1bc6ea98499bfe2b202ceeb6a",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0B-USD:84532",
+        "id": "0xd2cfea07dfe82d6a1159689091bee5fa160c5e3ccc44f8ac0bec54a6ad078be3",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0C-USD:84532",
+        "id": "0x987411493ea2be0f3a734d63bf3602f072b3ac7ef302590b1411e531dc5da639",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0D-USD:84532",
+        "id": "0xc2f67b0e6b39dfcd840627a5c0c1fc8eb58177a40274a57dc08b8d9921722486",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0E-USD:84532",
+        "id": "0x66423170e251f7be3967f376a1642cbc3776dc20c8742f42b5350860b105567f",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0F-USD:84532",
+        "id": "0xa0c9052873ab2383df075294dde14ad29e1aadb0857b2baa7baa827115acc01c",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0G-USD:84532",
+        "id": "0x0ac3004e21f496ef0a98d89a1358fc3e6a3e6875c06c804d5d3e9c510d0004a4",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0H-USD:84532",
+        "id": "0x0fc742af2d9279d8eb2197bf7af3fbb5d0cc19b1f73f7ed6868b2d7fabfbd53a",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0I-USD:84532",
+        "id": "0x143151910108ba4d3af6d8191b41a63e518036194b9ea58c1b21152c42529029",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0J-USD:84532",
+        "id": "0x5b622123024d99bea493662fe91bf9785b8b0decd46c65cdbeef6a0a1672b057",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0K-USD:84532",
+        "id": "0x68d0b6488f108137e95340a9ed685f2907fd82d9eb88a4f1b4515f45677144f7",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0L-USD:84532",
+        "id": "0xad3b2ae04b60e5cd23004490e3c2e27092ac30a4ba5a397e78d83d8684439b63",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0M-USD:84532",
+        "id": "0x6dcd30502974c862b562c10e9767e8653d7a8a93be9bd041f1a98f5a12f342f4",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0N-USD:84532",
+        "id": "0x29647291ff55e8472b451242764e53d5dc3eece8016b702a23bb3ac2b6d6b54f",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0O-USD:84532",
+        "id": "0xbaf1f2fe0d94420f5e11b1cbfa10b5e0b19f4b82882dc07dc94ddc4d92c572fd",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0P-USD:84532",
+        "id": "0xd20a974a7555588f5fb27f9769b575abdfec1e80d093831b19788cdf85b48093",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0Q-USD:84532",
+        "id": "0x8f1c36a056bf7ffee3946c775b91462fd7983e3f7748524e38ac7f6d8114060e",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0R-USD:84532",
+        "id": "0x0ce3d550d15547b67e1f6e10b2ca53a0c84496bff14adae2a7ad4d2fe6140941",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0S-USD:84532",
+        "id": "0x2d0f17211e5650ccc1beb1697a22aae32ee9c1ce2071a2acee4deaa1e6718db0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0T-USD:84532",
+        "id": "0x41918fa87b12fe7f7b1fbdce9a71dda685ac92d195d34eeba794b35a4259558d",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0U-USD:84532",
+        "id": "0x65120c8a24190bf67a9f281714158cf459269aa56a1947ffc71472456389001b",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0V-USD:84532",
+        "id": "0xa7bad9352921ad8d528ceed634ff2304ed57616a6a0beb18b0a25349bc507e96",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0W-USD:84532",
+        "id": "0xb4de69455631b5d49bdd6608519b850d94a8c77399b5597956027cb4b34d1458",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0X-USD:84532",
+        "id": "0x8008d87fb1cdabc7fe3fcc8e66102fcbe7c5f8950b5d7def236c703343916ebd",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0Y-USD:84532",
+        "id": "0xd90965e34c6db078fe1dc62d810dc1e70ea475dd45d2a63726018d05071ae48a",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP0Z-USD:84532",
+        "id": "0x12a3266e47d14388e2e9416e72f4c2df16b6244ca6d70ede7979a7876fa55d60",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP10-USD:84532",
+        "id": "0xbf25c85fbe78f147f5595ac398a0b12f11d28144aacf3ab2a60dd169cebec721",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP11-USD:84532",
+        "id": "0xcf04f510ecde71ef648b4cc83e03e6cc539f3a3fa862b3304709053ae80f2208",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP12-USD:84532",
+        "id": "0xf1218f77620410d901a115841b966fb92108040709123203d603b084ba9f2c3f",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP13-USD:84532",
+        "id": "0x0d6f388af3fe8732928339071c5ce20caa375755fcc91285779123510ca6799b",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP14-USD:84532",
+        "id": "0xdc896a7948c023742cc306b506095fe7b023dce191d20e3e7d422b664c9272c9",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP15-USD:84532",
+        "id": "0xe79a54c88c0de00e4984b09e3653f8d6888f1f98d5d2be6a5108be40a27a4bdf",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP16-USD:84532",
+        "id": "0x3ae60723c376a5577b8f8eca9d1e2d134dcd77ff36b85df8a21911074aac8862",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP17-USD:84532",
+        "id": "0xb0ed78b231403c32661c886d7626ad1bd80f9e4faa65b17eb64d65e0021d31b8",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP18-USD:84532",
+        "id": "0x6a2500d169887beb72a379b1f05ab31125f57c03b6f0a5564ea044f599dcfbab",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP19-USD:84532",
+        "id": "0x0c366266ff1fb54aa192d6ee88e1f7d66fc66c54c15dd64869a39022755978b1",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1A-USD:84532",
+        "id": "0x8f3e209b272d4242eef786342502c0dfd226d4674a28c4f74dd5d7b9a7d692c1",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1B-USD:84532",
+        "id": "0x8f0bdeab73fd1255fc627baf2c6203d504991269155136c6fabc72fd185f60b6",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1C-USD:84532",
+        "id": "0xa81ced20ed60751c4586e6cffb5cb1ab957677d4aa9fa89db6658c238c914fa7",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1D-USD:84532",
+        "id": "0xa9189b9f1485e205a80b472608adca1e8be663b056887447e3e1a7c4a1952185",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1E-USD:84532",
+        "id": "0xfd4107522c4dae82de58e70a08ea053ec054c410a99888cb9049c0f4e4adda7e",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1F-USD:84532",
+        "id": "0x52cfd343913541a83b770b1b729ca78f6e71b77e70c9803cab767a188e4fa746",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1G-USD:84532",
+        "id": "0x23a98d6b8ec841e307e8ff4b7d3a2d982be7fe29ac252d8c6ff92cf040779469",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1H-USD:84532",
+        "id": "0x1b82bcb00b9b22eec5454d19cf664b6672ffa7d8e5610a4b62d5df1172b2587f",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1I-USD:84532",
+        "id": "0x817d2e923eb95d9450d0378971ef7e27aa00178a0448ed4efd5ddd9d99d893c9",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1J-USD:84532",
+        "id": "0x4475cb1cd44ea264233b2070e90d1cdce3e3ff5589a4b0edfdb9009a77263dfd",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1K-USD:84532",
+        "id": "0x1c034042954d6cff0624b94890503a8da33b7c5a0f4acfd8ee41f0698cbbd38e",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1L-USD:84532",
+        "id": "0xaffb935e2b66fca4cdcb1c8c6e2bb28b0e0334007fc9323909ed1c4e142505b6",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1M-USD:84532",
+        "id": "0x4cd29a98d81eaa68d48c4f374dd2d2f6dcfcb9548b40466ee568ad6f9aa57f20",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1N-USD:84532",
+        "id": "0x91b2f5f93b000c3e7e4b4894898bab2abd2ddb72a0285a36602eb104a5c31df0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1O-USD:84532",
+        "id": "0x0d1949af23465df10b5559cdcfb214548d32c05a082e18c42926f36076042e98",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1P-USD:84532",
+        "id": "0x9292816ff22525af295c4291de45711decad4e049b5ad58ee5fcd8bcbf3c0eb0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1Q-USD:84532",
+        "id": "0xc4918d32c101cdedf24c0649b13ce81b250da735976b7c2c1b840f104f747ce0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1R-USD:84532",
+        "id": "0x462f114addca894c543db4a246bfcb3ba65e6dce9961e4840a7a37844cff273a",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1S-USD:84532",
+        "id": "0x449e98fe1bb8b6f90a9351d1306c065a62e9f0612e5284b16793f3c1f2559db0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1T-USD:84532",
+        "id": "0x4a0ca8ccbbd7e385a6e338e4224fe501a59795527ec27f11f91b34e217a5e3ca",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1U-USD:84532",
+        "id": "0x6dff55da0341bf52e445fa16ee4a655df126a1574443c9f911caf28d2be1902d",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1V-USD:84532",
+        "id": "0x60dd22921835d1099dd803957bcaa74275a8a9beb0793468be5548aa8f72db06",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1W-USD:84532",
+        "id": "0x3423342a5a8e632bfa4751f1ac3237e7ca8c3705effe466cbb541102de75d592",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1X-USD:84532",
+        "id": "0xba3e7592eb46e412dffbc544585685edbe4bf1c7c8ecc9ab920719f0dd339f00",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1Y-USD:84532",
+        "id": "0x776958d7f990f6f229acdf5a1b634a69c26bc868c99d5ca3a2b23ee8ea5873c3",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP1Z-USD:84532",
+        "id": "0xffa825c39d3b9ddb9d11e996763889ce214a62c73228394c3dfdc9f54be8c272",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP20-USD:84532",
+        "id": "0x61dbc051f5e0ed460f2790dbece36bb958024ea27c7b264c11763e9386afea61",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP21-USD:84532",
+        "id": "0x4b8acd9f1c9df6f5e759990626e2391c8b6f519616d521431f36b377b5e37bae",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP22-USD:84532",
+        "id": "0x70eedbe83525f5a4efb84e94565d85d315c4339e6f8cec0418284c1a6a492d24",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP23-USD:84532",
+        "id": "0x873d6a948c45f9dc902fb9140ca9987bce41f402c4826e53d8431bdc16d78e84",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP24-USD:84532",
+        "id": "0x03c09f4f504d2c52832635e86c1b40aea02c4dd137bcb15b73e228357c82b123",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP25-USD:84532",
+        "id": "0xcaf045b5741f9ef5198ec1973668f0e55b4d940721db3b1f36a6a980eadc8d16",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP26-USD:84532",
+        "id": "0x055fda55879efe625ea161d7ff1afa0f279472c7a63914af854d947cc6043888",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP27-USD:84532",
+        "id": "0x5b273723e3820525c456e92ad9430128f208651eb650c350c198ea03ef9479bb",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP28-USD:84532",
+        "id": "0x40206bbd05affc51b61071ec6e39e0a9e7928f792a668b2b9a089a04a8fe36a5",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP29-USD:84532",
+        "id": "0x466923d341f7c818bbd43d31516fd43144d66d309a9005d72396d1ffc8ed3499",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2A-USD:84532",
+        "id": "0x2d03cd465df88cecbc953d44a759d623ae31aa6a0057d521dab6322caca4a1f6",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2B-USD:84532",
+        "id": "0x1409a471e6edfba530082494accb432f5850b0540741fb1334b24f9f4bac5ec3",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2C-USD:84532",
+        "id": "0x1dccba1e041d8f159b34a79f5cc1bcbb7035e98383973e3c201ad22c66386bbc",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2D-USD:84532",
+        "id": "0x7acea432f39ddbf0abad198e7bf70b1ae96c0969680ac98d87c9fcbda007fb27",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2E-USD:84532",
+        "id": "0x9f195a3081b67edf6939d8e4a4542fb2692cf6576d3cc90cd0f20ce3689a29f9",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2F-USD:84532",
+        "id": "0xdf645d006c27dad41672b999817c7a4eccc37a4c11c64204a4b5f97039d80b2a",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2G-USD:84532",
+        "id": "0x45b1a3e7c27108f9c4cc70b42264b2c54a1998511aa2521ef32579616c13cd80",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2H-USD:84532",
+        "id": "0x6813033b52a2dd4561203f6cb0f30c360532ea9e074e208c15f98cae4d8e7a30",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2I-USD:84532",
+        "id": "0xda0d29917730963c17d4c3f71401e4ac6a4e30142c86fc976fa9254d1ff41f43",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2J-USD:84532",
+        "id": "0x258d0af9b8cf9a5e013a425998ffc9daaea6d00c2b47aa9b3977bd0127735a16",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2K-USD:84532",
+        "id": "0x52d55baeb73099afc6f734c5cfd22df2be6072740b6aee027af7ae87d9322679",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2L-USD:84532",
+        "id": "0xd72a74725b31ebbfea20a312cc5635fb034d175e12c96685469bff81cca4a2cc",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2M-USD:84532",
+        "id": "0xdf4d1f1bf2984a182bb907d82085e6afa6a41ef1f14f3d0c913ec2960c42fb6f",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2N-USD:84532",
+        "id": "0xfd68f723a1675c4efc247bbe3c0000eff2a34b5719f65317f5dc8a789513b012",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2O-USD:84532",
+        "id": "0xd293824e3f4788a5eb6af20a9f9a4f87ec2d2bc3c57469501df2323539b291b0",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2P-USD:84532",
+        "id": "0xc62d081db2d25863c9b936809d507b8ed6ee91e71c55a59158c844604a6104f6",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2Q-USD:84532",
+        "id": "0x27c88ac8b4576b016995815b2bc2fb108397eb46e0407ef76203e02dbdab9feb",
+        "type": "polymarket"
+      },
+      {
+        "symbol": "SP2R-USD:84532",
+        "id": "0xb826404c7134345eca81ffe1a2d68be20575445c88afc1e1ec0e9a28e7e5ad92",
         "type": "polymarket"
       },
       {
