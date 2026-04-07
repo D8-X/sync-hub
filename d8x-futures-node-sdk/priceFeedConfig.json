@@ -1247,12 +1247,12 @@
     "endpoints": [
       {
         "type": "odin",
-        "endpoints": [""],
+        "endpoints": ["https://odin-sport-base.d8x.xyz"],
         "writeEndpoints": ["https://odin-sport-base.d8x.xyz"]
       },
       {
         "type": "polymarket",
-        "endpoints": [""],
+        "endpoints": ["https://odin-sport-base.d8x.xyz"],
         "writeEndpoints": ["https://odin-sport-base.d8x.xyz"]
       }
     ]
