@@ -27,7 +27,8 @@ Many of these points are either directly from or in the spirit of https://go.dev
 
 ## Redis
 - We use Ruedis.
-- Centralize Redis operations and key definitions in package `redis`; don't scatter Redis key strings or direct Redis operations throughout the application.
+- Implement the code compatible with valkey (open source version) and serverless deployments. A major difference is the presence of shards. 
+- Centralize Redis operations and key definitions in package `redis`; don't scatter Redis key strings or direct Redis operations throughout the application. 
 
 ## APIs
 - Check inputs before resource-intensive calls; error out early.
@@ -36,5 +37,5 @@ Many of these points are either directly from or in the spirit of https://go.dev
 
 ## Database
 - Put migrations in `db/migrations` as SQL files.
-- Before a migration has been deployed anywhere shared, it may be edited freely. Once deployed, create a new migration for each change.
+- Before a migration has been deployed anywhere shared, it may be edited freely, that is do not create migration files during development stage so the db schema can easily be ready without going through migrations. Once deployed, create a new migration for each change.
 - Keep database access behind clearly identifiable packages. Prefer queries close to the domain or component that owns them; avoid SQL scattered throughout service logic.
